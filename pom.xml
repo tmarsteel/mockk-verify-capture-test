@@ -10,7 +10,7 @@
         <io.kotlintest.version>3.4.0</io.kotlintest.version>
         <mockk.version>1.9.3</mockk.version>
         <mockito.version>2.23.4</mockito.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <io.kotlintest.version>3.4.0</io.kotlintest.version>
     </properties>
     <dependencies>
